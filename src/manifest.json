@@ -38,6 +38,7 @@
     "*://citeseer.ist.psu.edu/viewdoc/download*type=pdf",
     "*://citeseerx.ist.psu.edu/viewdoc/download*type=pdf",
     "*://www.aclweb.org/anthology/*.pdf",
+    "*://huggingface.co/papers/*",
     "webRequest",
     "webRequestBlocking"
   ],
