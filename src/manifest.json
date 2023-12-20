@@ -44,7 +44,7 @@
   ],
 
   "background": {
-    "scripts": ["redirectify.js"]
+    "service_worker": ["redirectify.js"]
   }
 
 }
